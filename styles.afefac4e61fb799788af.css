@@ -1,4 +1,4 @@
-.clickable{cursor:pointer}table{table-layout:fixed;word-wrap:break-word}.w-10{max-width:10%!important;min-width:10%!important;width:10%!important}.truncate-line{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;max-width:1px}textarea{height:100%!important}
+.clickable{cursor:pointer}table{table-layout:fixed;word-wrap:break-word}.w-10{max-width:10%!important;min-width:10%!important;width:10%!important}.truncate-line{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;max-width:1px}textarea{height:100%!important}.alert{position:fixed}
 /*!
  * Bootstrap v4.0.0-beta (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
