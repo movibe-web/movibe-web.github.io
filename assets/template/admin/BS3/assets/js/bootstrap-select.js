@@ -109,7 +109,6 @@
                 var divLength = menu.find("li").slice(0,optIndex + 1).find('.divider').length;
                 menuHeight = liHeight*this.options.size + divLength*divHeight + menuPadding;
                 menu.css({'max-height' : menuHeight + 'px', 'overflow-y' : 'scroll'});
-                //console.log('sunt in if');
             }
 
             // Listen for updates to the DOM and re render... (Use Mutation Observer when availiable)
